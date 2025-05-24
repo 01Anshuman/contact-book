@@ -1,4 +1,3 @@
-```markdown
 # Contact Book Application using Python (Tkinter + SQLite)
 
 A beginner-friendly desktop application built using Python’s Tkinter library and SQLite database. This contact management tool allows users to perform all CRUD operations (Create, Read, Update, Delete) on a local database through a simple graphical interface.
