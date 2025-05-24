@@ -64,7 +64,7 @@ SQLite is:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/contact-book.git
+git clone https://github.com/01Anshuman/contact-book.git
 cd contact-book
 ````
 
