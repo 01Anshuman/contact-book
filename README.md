@@ -109,9 +109,7 @@ python contact_book.py
 ## Author
 
 **Anshuman**
-Python Developer | Beginner in GUI Programming
-🔗 [GitHub](https://github.com/your-username)
-📧 [your-email@example.com](mailto:your-email@example.com)
+Python Developer 
 
 ---
 
@@ -121,7 +119,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
 
-📌 **Replace** the GitHub link, email, and screenshot path (`ui.png`) as per your actual project setup.
-```
